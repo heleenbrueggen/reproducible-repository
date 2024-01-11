@@ -3,6 +3,8 @@ title: "My Reproducible Script"
 author: Heleen Brüggen
 format: pdf
 bibliography: references.bib
+project: 
+  execute-dir: project
 ---
 
 # Introduction 
